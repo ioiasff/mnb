@@ -1,0 +1,20 @@
+do
+
+function run(msg, matches)
+  return 'Telegram Bot '.. VERSION .. [[ 
+  admins:
+  @arash_admin_death
+  @fazel_admin_death
+  Thanks to ARASH and FAZEL.]]
+end
+
+return {
+  description = "Shows bot version", 
+  usage = "!version: Shows bot version",
+  patterns = {
+    "^!version$"
+  }, 
+  run = run 
+}
+
+end
