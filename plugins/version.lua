@@ -1,8 +1,8 @@
 do
 
 function run(msg, matches)
-  return 'Merbot '.. VERSION .. [[ 
-  Checkout http://git.io/v4Oi0
+  return 'ARASH '.. VERSION .. [[ 
+  ARASH @arash_admin_death
   GNU GPL v2 license.]]
 end
 
