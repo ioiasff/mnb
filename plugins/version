@@ -5,7 +5,7 @@ function run(msg, matches)
   admins:
   @arash_admin_death
   @fazel_admin_death
-  Thanks to ARASH and FAZEL.]]
+  Thanks to ARASH]]
 end
 
 return {
